@@ -1,9 +1,16 @@
 import React from 'react';
+import Banner from '../Banner/Banner';
+import BannerImage from '../BannerImage/BannerImage';
 
 const Home = () => {
     return (
         <div>
-            <h2>This is home page</h2>
+            <Banner ></Banner>
+            <BannerImage></BannerImage>
+            {/* banner
+            heading
+            categories tab section
+            dynamic nested component */}
         </div>
     );
 };
