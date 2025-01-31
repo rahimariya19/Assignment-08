@@ -1,0 +1,166 @@
+[
+    {
+      "productId": "1",
+      "product_title": "MacBook Pro 16",
+      "product_image": "https://i.ibb.co.com/Jw7MGDfy/laptop1.jpg",
+      "category": "Laptops",
+      "price": 2499,
+      "description": "Powerful laptop with M2 Pro chip, 16-inch Liquid Retina display.",
+      "specification": [
+        "16-inch Liquid Retina XDR display",
+        "Apple M2 Pro chip",
+        "32GB RAM, 1TB SSD",
+        "Magic Keyboard with Touch ID"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "productId": "2",
+      "product_title": "Dell XPS 15",
+      "product_image": "https://i.ibb.co.com/8DxC8qCj/laptop2.jpg",
+      "category": "Laptops",
+      "price": 1899,
+      "description": "Sleek and powerful laptop with 4K display and Intel Core i9.",
+      "specification": [
+        "15.6-inch 4K OLED display",
+        "Intel Core i9 13th Gen",
+        "32GB RAM, 1TB SSD",
+        "NVIDIA RTX 4070"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "productId": "3",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/8nfN1V82/laptop3.jpg",
+      "category": "Laptops",
+      "price": 1599,
+      "description": "Convertible laptop with OLED touchscreen and Intel Evo platform.",
+      "specification": [
+        "14-inch 3K OLED Touchscreen",
+        "Intel Core i7 12th Gen",
+        "16GB RAM, 512GB SSD",
+        "360-degree hinge design"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "productId": "4",
+      "product_title": "ASUS ROG Zephyrus G15",
+      "product_image": "https://i.ibb.co.com/W74hQv5/laptop4avif.jpg",
+      "category": "Laptops",
+      "price": 1799,
+      "description": "High-performance gaming laptop with RTX 3080 and Ryzen 9.",
+      "specification": [
+        "15.6-inch QHD 165Hz display",
+        "AMD Ryzen 9 6900HS",
+        "32GB RAM, 1TB SSD",
+        "NVIDIA GeForce RTX 3080"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "productId": "5",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/VY3mpKFv/phone1.jpg",
+      "category": "Phones",
+      "price": 1299,
+      "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "productId": "6",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/Q3d7yj2y/phone2.jpg",
+      "category": "Phones",
+      "price": 1199,
+      "description": "The most powerful Samsung phone with S Pen and 200MP camera.",
+      "specification": [
+        "6.8-inch Dynamic AMOLED 2X display",
+        "Qualcomm Snapdragon 8 Gen 2",
+        "200MP + 12MP + 10MP + 10MP quad camera",
+        "S Pen support",
+        "5000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "productId": "7",
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/3m4CCV0q/phone3.jpg",
+      "category": "Phones",
+      "price": 999,
+      "description": "Google's best AI-powered smartphone with amazing camera technology.",
+      "specification": [
+        "6.7-inch LTPO OLED 120Hz display",
+        "Google Tensor G3",
+        "50MP + 48MP + 12MP triple camera",
+        "Face Unlock + In-display Fingerprint",
+        "5000mAh battery"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "productId": "8",
+      "product_title": "Apple AirPods Pro 2",
+      "product_image": "https://i.ibb.co.com/0RFx5KjY/a1.jpg",
+      "category": "Accessories",
+      "price": 249,
+      "description": "Next-gen noise-canceling wireless earbuds from Apple.",
+      "specification": [
+        "Active Noise Cancellation",
+        "Adaptive Transparency mode",
+        "Spatial Audio with dynamic head tracking",
+        "Up to 6 hours listening time"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+        "productId": "9",
+        "product_title": "Samsung Galaxy Buds 2 Pro",
+        "product_image": "https://i.ibb.co.com/1wj0bqc/a2.jpg",
+        "category": "Accessories",
+        "price": 229,
+        "description": "High-fidelity wireless earbuds with ANC and 360 Audio from Samsung.",
+        "specification": [
+          "Intelligent Active Noise Cancellation",
+          "Hi-Fi sound quality",
+          "360 Audio with multi-dimensional sound",
+          "IPX7 water resistance"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "productId": "10",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/s9wQzmdy/a3.jpg",
+        "category": "Accessories",
+        "price": 399,
+        "description": "Premium noise-canceling over-ear headphones with industry-leading sound quality.",
+        "specification": [
+          "Industry-leading Active Noise Cancellation",
+          "High-Resolution Audio",
+          "Up to 30 hours battery life",
+          "Multipoint connectivity"
+        ],
+        "availability": true,
+        "rating": 4.9
+      }
+  ]
+  

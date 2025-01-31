@@ -1,0 +1,51 @@
+[
+    {
+        "productId": "1",
+        "product_title": "MacBook Pro 16",
+        "product_image": "https://i.ibb.co.com/Jw7MGDfy/laptop1.jpg",
+        "category": "Laptops",
+        "price": 2499,
+        "description": "Powerful laptop with M2 Pro chip, 16-inch Liquid Retina display.",
+        "specification": [
+          "16-inch Liquid Retina XDR display",
+          "Apple M2 Pro chip",
+          "32GB RAM, 1TB SSD",
+          "Magic Keyboard with Touch ID"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "productId": "2",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://i.ibb.co.com/VY3mpKFv/phone1.jpg",
+        "category": "Phones",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+          "6.7-inch Super Retina XDR display",
+          "A17 Bionic chip",
+          "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+          "LiDAR Scanner",
+          "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "productId": "3",
+        "product_title": "Apple AirPods Pro 2",
+        "product_image": "https://i.ibb.co.com/0RFx5KjY/a1.jpg",
+        "category": "Accessories",
+        "price": 249,
+        "description": "Next-gen noise-canceling wireless earbuds from Apple.",
+        "specification": [
+          "Active Noise Cancellation",
+          "Adaptive Transparency mode",
+          "Spatial Audio with dynamic head tracking",
+          "Up to 6 hours listening time"
+        ],
+        "availability": true,
+        "rating": 4.8
+      }
+]
