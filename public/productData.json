@@ -1,22 +1,22 @@
 [
     {
-      "productId": "1",
+      "productId": 1,
       "product_title": "MacBook Pro 16",
       "product_image": "https://i.ibb.co.com/Jw7MGDfy/laptop1.jpg",
       "category": "Laptops",
       "price": 2499,
       "description": "Powerful laptop with M2 Pro chip, 16-inch Liquid Retina display.",
       "specification": [
-        "16-inch Liquid Retina XDR display",
-        "Apple M2 Pro chip",
-        "32GB RAM, 1TB SSD",
-        "Magic Keyboard with Touch ID"
+        "1. 16-inch Liquid Retina XDR display ", 
+        "2. Apple M2 Pro chip",
+        "3. 32GB RAM, 1TB SSD",
+        "4.Magic Keyboard with Touch ID"
       ],
-      "availability": true,
+      "availability": "In Stock",
       "rating": 4.9
     },
     {
-      "productId": "2",
+      "productId": 2,
       "product_title": "Dell XPS 15",
       "product_image": "https://i.ibb.co.com/8DxC8qCj/laptop2.jpg",
       "category": "Laptops",
@@ -28,11 +28,11 @@
         "32GB RAM, 1TB SSD",
         "NVIDIA RTX 4070"
       ],
-      "availability": true,
+      "availability": "In Stock",
       "rating": 4.7
     },
     {
-      "productId": "3",
+      "productId": 3,
       "product_title": "HP Spectre x360",
       "product_image": "https://i.ibb.co.com/8nfN1V82/laptop3.jpg",
       "category": "Laptops",
@@ -44,11 +44,11 @@
         "16GB RAM, 512GB SSD",
         "360-degree hinge design"
       ],
-      "availability": false,
+      "availability": "In Stock",
       "rating": 4.6
     },
     {
-      "productId": "4",
+      "productId": 4,
       "product_title": "ASUS ROG Zephyrus G15",
       "product_image": "https://i.ibb.co.com/W74hQv5/laptop4avif.jpg",
       "category": "Laptops",
@@ -60,11 +60,11 @@
         "32GB RAM, 1TB SSD",
         "NVIDIA GeForce RTX 3080"
       ],
-      "availability": true,
+      "availability": "In Stock",
       "rating": 4.8
     },
     {
-      "productId": "5",
+      "productId": 5,
       "product_title": "Apple iPhone 15 Pro Max",
       "product_image": "https://i.ibb.co.com/VY3mpKFv/phone1.jpg",
       "category": "Phones",
@@ -77,11 +77,11 @@
         "LiDAR Scanner",
         "Up to 2TB storage"
       ],
-      "availability": true,
+      "availability": "In Stock",
       "rating": 4.8
     },
     {
-      "productId": "6",
+      "productId": 6,
       "product_title": "Samsung Galaxy S23 Ultra",
       "product_image": "https://i.ibb.co.com/Q3d7yj2y/phone2.jpg",
       "category": "Phones",
@@ -94,11 +94,11 @@
         "S Pen support",
         "5000mAh battery"
       ],
-      "availability": true,
+      "availability": "In Stock",
       "rating": 4.9
     },
     {
-      "productId": "7",
+      "productId": 7,
       "product_title": "Google Pixel 8 Pro",
       "product_image": "https://i.ibb.co.com/3m4CCV0q/phone3.jpg",
       "category": "Phones",
@@ -111,11 +111,11 @@
         "Face Unlock + In-display Fingerprint",
         "5000mAh battery"
       ],
-      "availability": false,
+      "availability": "In Stock",
       "rating": 4.7
     },
     {
-      "productId": "8",
+      "productId": 8,
       "product_title": "Apple AirPods Pro 2",
       "product_image": "https://i.ibb.co.com/0RFx5KjY/a1.jpg",
       "category": "Accessories",
@@ -127,11 +127,11 @@
         "Spatial Audio with dynamic head tracking",
         "Up to 6 hours listening time"
       ],
-      "availability": true,
+      "availability": "In Stock",
       "rating": 4.8
     },
     {
-        "productId": "9",
+        "productId": 9,
         "product_title": "Samsung Galaxy Buds 2 Pro",
         "product_image": "https://i.ibb.co.com/1wj0bqc/a2.jpg",
         "category": "Accessories",
@@ -143,11 +143,11 @@
           "360 Audio with multi-dimensional sound",
           "IPX7 water resistance"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.7
       },
       {
-        "productId": "10",
+        "productId": 10,
         "product_title": "Sony WH-1000XM5",
         "product_image": "https://i.ibb.co.com/s9wQzmdy/a3.jpg",
         "category": "Accessories",
@@ -159,7 +159,7 @@
           "Up to 30 hours battery life",
           "Multipoint connectivity"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.9
       }
   ]

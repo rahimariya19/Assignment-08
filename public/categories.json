@@ -1,6 +1,6 @@
 [
     {
-        "productId": "1",
+        "productId": 1,
         "product_title": "MacBook Pro 16",
         "product_image": "https://i.ibb.co.com/Jw7MGDfy/laptop1.jpg",
         "category": "Laptops",
@@ -16,7 +16,7 @@
         "rating": 4.9
       },
       {
-        "productId": "2",
+        "productId": 2,
         "product_title": "Apple iPhone 15 Pro Max",
         "product_image": "https://i.ibb.co.com/VY3mpKFv/phone1.jpg",
         "category": "Phones",
@@ -33,7 +33,7 @@
         "rating": 4.8
       },
       {
-        "productId": "3",
+        "productId": 3,
         "product_title": "Apple AirPods Pro 2",
         "product_image": "https://i.ibb.co.com/0RFx5KjY/a1.jpg",
         "category": "Accessories",

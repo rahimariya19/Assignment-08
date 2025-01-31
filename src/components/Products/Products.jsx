@@ -3,6 +3,13 @@ import Product from '../Product/Product';
 
 const Products = () => {
     const [products, setProducts] = useState([]);
+    //ew
+    // const [selectedCategory, setSelectedCategory] = useState("All Product");
+    // const filteredProducts =
+    // selectedCategory === "All Product"
+    //   ? products
+    //   : products.filter((product) => product.category === selectedCategory);
+
     useEffect(() => {
         fetch('./productData.json')
             .then(res => res.json())
@@ -23,7 +30,7 @@ const Products = () => {
 
                 <div className='w-3/4 grid grid-cols-1 md:grid-cols-3 gap-5'>
                     {
-                        products.map(product=> <Product key={product.product_id} product={product}></Product>)
+                        products.map(product=> <Product key={product.productIid} product={product}></Product>)
 
                     }
                 </div>
