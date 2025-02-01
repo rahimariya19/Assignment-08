@@ -17,6 +17,7 @@ const Product = ({ product }) => {
             {product_title}
           </h2>
           <p className='text-[#09080F99] font-medium text-xl'>Price: {price}</p>
+          <p></p>
           <div className="card-actions">
             {/* <div className="p-2 border border-[#9538E2] rounded-3xl text-[#9538E2]">View Details</div> */}
             <button className="p-2 border border-[#9538E2] rounded-3xl text-[#9538E2]">View Details</button>

@@ -2,6 +2,7 @@ import React from 'react';
 import Banner from '../Banner/Banner';
 import BannerImage from '../BannerImage/BannerImage';
 import Products from '../Products/Products';
+// import { Outlet } from 'react-router-dom';
 
 const Home = () => {
     return (
@@ -9,6 +10,7 @@ const Home = () => {
             <Banner ></Banner>
             <BannerImage></BannerImage>
             <Products></Products>
+            {/* <Outlet></Outlet> */}
             
             {/* banner
             heading
